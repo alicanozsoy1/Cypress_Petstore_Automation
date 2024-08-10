@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1723310127480' stop='1723310131331'>
+    <name>Petstore Positive Tests</name>
+    <title>Petstore Positive Tests</title>
+    <test-cases>
+        <test-case start='1723310127480' status='passed' stop='1723310128914'>
+            <name>Find By Status</name>
+            <title>Find By Status</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310128945' status='passed' stop='1723310129180'>
+            <name>Add New Pet</name>
+            <title>Add New Pet</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310129211' status='passed' stop='1723310129416'>
+            <name>Get Pet By ID</name>
+            <title>Get Pet By ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310129442' status='passed' stop='1723310129643'>
+            <name>Check Inventory</name>
+            <title>Check Inventory</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310129663' status='passed' stop='1723310129863'>
+            <name>Update Pet By ID</name>
+            <title>Update Pet By ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310129887' status='passed' stop='1723310130097'>
+            <name>Place Order</name>
+            <title>Place Order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310130123' status='passed' stop='1723310130322'>
+            <name>Update Existing Pet</name>
+            <title>Update Existing Pet</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310130340' status='passed' stop='1723310130542'>
+            <name>Create User</name>
+            <title>Create User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310130556' status='passed' stop='1723310130735'>
+            <name>Update User</name>
+            <title>Update User</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310130754' status='passed' stop='1723310130934'>
+            <name>Delete Pet By ID</name>
+            <title>Delete Pet By ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310130948' status='passed' stop='1723310131122'>
+            <name>Delete Order By ID</name>
+            <title>Delete Order By ID</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1723310131140' status='passed' stop='1723310131331'>
+            <name>Delete User By Username</name>
+            <title>Delete User By Username</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

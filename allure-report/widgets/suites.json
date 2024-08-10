@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"1b6a90a779c8e895031f397d2c59802d","name":"Petstore Negative Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":12,"unknown":0,"total":12}},{"uid":"1a34f647f6ea62c1df7fffa44b97ced6","name":"Petstore Positive Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":12,"unknown":0,"total":12}}]}
